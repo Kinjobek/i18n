@@ -15,16 +15,16 @@ msgstr ""
 
 #: handlers/audio.py:118
 msgid "Please wait, your audio is coming..."
-msgstr "Iltimos kuting, sizning auidoingiz jo'natilyapti..."
+msgstr "Iltimos kuting, sizning auidoingiz kelmoqda..."
 
 #: handlers/audio.py:134
 msgid "Song is removed by copyright owners"
-msgstr "⛔️ Qo’shiq mualliflik egalari tomonidan o’chirildi"
+msgstr "⛔️ Qoʻshiq mualliflik egalari tomonidan oʻchirildi"
 
 #: handlers/docdb.py:64
 msgid "Got it! Note: it may take time for the song to appear in the search"
 msgstr ""
-"Bo'ldi! Yodda tuting: qo'shiqni qidirish bir necha soniya olishi mumkin"
+"Tushundim! Eslatma: qoʻshiqni qidirish bir necha soniya olishi mumkin"
 
 #: handlers/donation.py:43 handlers/donation.py:113 handlers/settings.py:52
 #: handlers/settings.py:72
@@ -33,7 +33,7 @@ msgstr "Yopish"
 
 #: handlers/donation.py:46
 msgid "Support us"
-msgstr "Bizni qo'llab quvvatlang"
+msgstr "Bizni qoʻllab quvvatlang"
 
 #: handlers/donation.py:48
 msgid ""
@@ -41,7 +41,7 @@ msgid ""
 "for our servers."
 msgstr ""
 "Sizning hadyalaringiz bizga yangi imkoniyatlarni kashf etish, barqarorlikni "
-"kengaytirish va serverlaraga pul to'lash uchun yordam beradi."
+"kengaytirish va serverlaraga pul toʻlash uchun yordam beradi."
 
 #: handlers/donation.py:51 handlers/donation.py:131
 msgid ""
@@ -128,27 +128,27 @@ msgstr ""
 
 #: handlers/help.py:18 handlers/start.py:38
 msgid "/song — search by song title"
-msgstr "/song - qo'shiq bomi orqali qidirish"
+msgstr "/song - qoʻshiq nomi orqali qidirish"
 
 #: handlers/help.py:19 handlers/start.py:39
 msgid "/artist — search for artist name"
-msgstr "/artist - Qo'shiqchi ismi orqali qidirish"
+msgstr "/artist - qo'shiqchi ismi orqali qidirish"
 
 #: handlers/help.py:20
 msgid "/my — list your playlist"
-msgstr "/my - sizning pleylistlaringiz ro'yhati"
+msgstr "/my - sizning pleylistingiz"
 
 #: handlers/help.py:21
 msgid "/top — popular songs"
-msgstr "/top - mashhur qo'shiqlar"
+msgstr "/top - mashhur qoʻshiqlar"
 
 #: handlers/help.py:22 handlers/start.py:41
 msgid "/settings — change settings"
-msgstr "/settings - sozlamalarni o'zgartirish"
+msgstr "/settings - sozlamalarni oʻzgartirish"
 
 #: handlers/help.py:23
 msgid "/donate — support authors"
-msgstr "/donate - muallifni qo'llab quvvatlash"
+msgstr "/donate - muallifni qoʻllab quvvatlash"
 
 #: handlers/help.py:24
 msgid "/premium — premium info"
